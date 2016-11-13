@@ -1,2 +1,0 @@
-# TensorflowTest
-Learning tensorflow
